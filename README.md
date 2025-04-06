@@ -1,0 +1,2 @@
+# staticfiles1
+Testing
